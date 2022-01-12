@@ -1,0 +1,2869 @@
+
+
+--Execution parameters--
+
+Algorithm : LSH_Vector
+L : 5
+k : 4
+w : 6
+threshold : 120
+
+Query : a
+Approximate Nearest Neighbor : a
+True Nearest Neighbor : a
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.115306 ms
+timeTrue : 0.009451 ms
+
+Query : aa
+Approximate Nearest Neighbor : aa
+True Nearest Neighbor : aa
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106660 ms
+timeTrue : 0.059546 ms
+
+Query : aaba
+Approximate Nearest Neighbor : aaba
+True Nearest Neighbor : aaba
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.113319 ms
+timeTrue : 0.107297 ms
+
+Query : aapl
+Approximate Nearest Neighbor : aapl
+True Nearest Neighbor : aapl
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104274 ms
+timeTrue : 0.158002 ms
+
+Query : abc
+Approximate Nearest Neighbor : abc
+True Nearest Neighbor : abc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104825 ms
+timeTrue : 0.205728 ms
+
+Query : abt
+Approximate Nearest Neighbor : abt
+True Nearest Neighbor : abt
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.103957 ms
+timeTrue : 0.266197 ms
+
+Query : abx
+Approximate Nearest Neighbor : abx
+True Nearest Neighbor : abx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104351 ms
+timeTrue : 0.306771 ms
+
+Query : adbe
+Approximate Nearest Neighbor : adbe
+True Nearest Neighbor : adbe
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104468 ms
+timeTrue : 0.353364 ms
+
+Query : adi
+Approximate Nearest Neighbor : adi
+True Nearest Neighbor : adi
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104405 ms
+timeTrue : 0.406084 ms
+
+Query : adm
+Approximate Nearest Neighbor : adm
+True Nearest Neighbor : adm
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105450 ms
+timeTrue : 0.455158 ms
+
+Query : admp
+Approximate Nearest Neighbor : admp
+True Nearest Neighbor : admp
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104456 ms
+timeTrue : 0.508769 ms
+
+Query : adp
+Approximate Nearest Neighbor : adp
+True Nearest Neighbor : adp
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104339 ms
+timeTrue : 0.544018 ms
+
+Query : adsk
+Approximate Nearest Neighbor : adsk
+True Nearest Neighbor : adsk
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104218 ms
+timeTrue : 0.591327 ms
+
+Query : aee
+Approximate Nearest Neighbor : aee
+True Nearest Neighbor : aee
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104461 ms
+timeTrue : 0.653357 ms
+
+Query : aem
+Approximate Nearest Neighbor : aem
+True Nearest Neighbor : aem
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104022 ms
+timeTrue : 0.700334 ms
+
+Query : aep
+Approximate Nearest Neighbor : aep
+True Nearest Neighbor : aep
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104243 ms
+timeTrue : 0.739846 ms
+
+Query : aes
+Approximate Nearest Neighbor : aes
+True Nearest Neighbor : aes
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104126 ms
+timeTrue : 0.821097 ms
+
+Query : aet
+Approximate Nearest Neighbor : aet
+True Nearest Neighbor : aet
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104916 ms
+timeTrue : 0.851129 ms
+
+Query : afl
+Approximate Nearest Neighbor : afl
+True Nearest Neighbor : afl
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104638 ms
+timeTrue : 0.900259 ms
+
+Query : agn
+Approximate Nearest Neighbor : agn
+True Nearest Neighbor : agn
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104299 ms
+timeTrue : 0.950652 ms
+
+Query : aig
+Approximate Nearest Neighbor : aig
+True Nearest Neighbor : aig
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104301 ms
+timeTrue : 0.998237 ms
+
+Query : aiv
+Approximate Nearest Neighbor : aiv
+True Nearest Neighbor : aiv
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104327 ms
+timeTrue : 1.053899 ms
+
+Query : all
+Approximate Nearest Neighbor : all
+True Nearest Neighbor : all
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105335 ms
+timeTrue : 1.102812 ms
+
+Query : amat
+Approximate Nearest Neighbor : amat
+True Nearest Neighbor : amat
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105114 ms
+timeTrue : 1.146792 ms
+
+Query : amd
+Approximate Nearest Neighbor : amd
+True Nearest Neighbor : amd
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104304 ms
+timeTrue : 1.196427 ms
+
+Query : amgn
+Approximate Nearest Neighbor : amgn
+True Nearest Neighbor : amgn
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104449 ms
+timeTrue : 1.249169 ms
+
+Query : amzn
+Approximate Nearest Neighbor : amzn
+True Nearest Neighbor : amzn
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104643 ms
+timeTrue : 1.298177 ms
+
+Query : an
+Approximate Nearest Neighbor : an
+True Nearest Neighbor : an
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104446 ms
+timeTrue : 1.354251 ms
+
+Query : antm
+Approximate Nearest Neighbor : antm
+True Nearest Neighbor : antm
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104617 ms
+timeTrue : 1.558961 ms
+
+Query : apa
+Approximate Nearest Neighbor : apa
+True Nearest Neighbor : apa
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107316 ms
+timeTrue : 1.445119 ms
+
+Query : apc
+Approximate Nearest Neighbor : apc
+True Nearest Neighbor : apc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104887 ms
+timeTrue : 1.496723 ms
+
+Query : apd
+Approximate Nearest Neighbor : apd
+True Nearest Neighbor : apd
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104639 ms
+timeTrue : 1.543189 ms
+
+Query : aphb
+Approximate Nearest Neighbor : aphb
+True Nearest Neighbor : aphb
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104464 ms
+timeTrue : 1.677173 ms
+
+Query : ash
+Approximate Nearest Neighbor : ash
+True Nearest Neighbor : ash
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105840 ms
+timeTrue : 1.648396 ms
+
+Query : ati
+Approximate Nearest Neighbor : ati
+True Nearest Neighbor : ati
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.176190 ms
+timeTrue : 1.862469 ms
+
+Query : atro
+Approximate Nearest Neighbor : atro
+True Nearest Neighbor : atro
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106430 ms
+timeTrue : 1.706580 ms
+
+Query : au
+Approximate Nearest Neighbor : au
+True Nearest Neighbor : au
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104259 ms
+timeTrue : 1.795527 ms
+
+Query : avp
+Approximate Nearest Neighbor : avp
+True Nearest Neighbor : avp
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104959 ms
+timeTrue : 1.838650 ms
+
+Query : avy
+Approximate Nearest Neighbor : avy
+True Nearest Neighbor : avy
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104869 ms
+timeTrue : 1.882413 ms
+
+Query : axgn
+Approximate Nearest Neighbor : axgn
+True Nearest Neighbor : axgn
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104769 ms
+timeTrue : 2.002948 ms
+
+Query : axp
+Approximate Nearest Neighbor : axp
+True Nearest Neighbor : axp
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105285 ms
+timeTrue : 1.995034 ms
+
+Query : azo
+Approximate Nearest Neighbor : azo
+True Nearest Neighbor : azo
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104836 ms
+timeTrue : 2.037518 ms
+
+Query : ba
+Approximate Nearest Neighbor : ba
+True Nearest Neighbor : ba
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104151 ms
+timeTrue : 2.077711 ms
+
+Query : bac
+Approximate Nearest Neighbor : bac
+True Nearest Neighbor : bac
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104958 ms
+timeTrue : 2.134087 ms
+
+Query : bax
+Approximate Nearest Neighbor : bax
+True Nearest Neighbor : bax
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104799 ms
+timeTrue : 2.179132 ms
+
+Query : bb
+Approximate Nearest Neighbor : bb
+True Nearest Neighbor : bb
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104321 ms
+timeTrue : 2.234271 ms
+
+Query : bbby
+Approximate Nearest Neighbor : bbby
+True Nearest Neighbor : bbby
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.114023 ms
+timeTrue : 2.285712 ms
+
+Query : bbt
+Approximate Nearest Neighbor : bbt
+True Nearest Neighbor : bbt
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104699 ms
+timeTrue : 2.328683 ms
+
+Query : bby
+Approximate Nearest Neighbor : bby
+True Nearest Neighbor : bby
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.155636 ms
+timeTrue : 2.367903 ms
+
+Query : bc
+Approximate Nearest Neighbor : bc
+True Nearest Neighbor : bc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106336 ms
+timeTrue : 2.415730 ms
+
+Query : bcr
+Approximate Nearest Neighbor : bcr
+True Nearest Neighbor : bcr
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105040 ms
+timeTrue : 2.441098 ms
+
+Query : bdx
+Approximate Nearest Neighbor : bdx
+True Nearest Neighbor : bdx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104496 ms
+timeTrue : 2.527928 ms
+
+Query : ben
+Approximate Nearest Neighbor : ben
+True Nearest Neighbor : ben
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104253 ms
+timeTrue : 2.581500 ms
+
+Query : biib
+Approximate Nearest Neighbor : biib
+True Nearest Neighbor : biib
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104196 ms
+timeTrue : 2.681617 ms
+
+Query : bk
+Approximate Nearest Neighbor : bk
+True Nearest Neighbor : bk
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104611 ms
+timeTrue : 2.679799 ms
+
+Query : bll
+Approximate Nearest Neighbor : bll
+True Nearest Neighbor : bll
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104698 ms
+timeTrue : 2.739016 ms
+
+Query : bms
+Approximate Nearest Neighbor : bms
+True Nearest Neighbor : bms
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104892 ms
+timeTrue : 2.739022 ms
+
+Query : bmy
+Approximate Nearest Neighbor : bmy
+True Nearest Neighbor : bmy
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.154508 ms
+timeTrue : 2.839646 ms
+
+Query : brk-a
+Approximate Nearest Neighbor : brk-a
+True Nearest Neighbor : brk-a
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104453 ms
+timeTrue : 2.823779 ms
+
+Query : brk-b
+Approximate Nearest Neighbor : brk-b
+True Nearest Neighbor : brk-b
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104219 ms
+timeTrue : 2.906517 ms
+
+Query : bsx
+Approximate Nearest Neighbor : bsx
+True Nearest Neighbor : bsx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104967 ms
+timeTrue : 2.928106 ms
+
+Query : c
+Approximate Nearest Neighbor : c
+True Nearest Neighbor : c
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104537 ms
+timeTrue : 3.007648 ms
+
+Query : ca
+Approximate Nearest Neighbor : ca
+True Nearest Neighbor : ca
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104607 ms
+timeTrue : 3.076189 ms
+
+Query : cag
+Approximate Nearest Neighbor : cag
+True Nearest Neighbor : cag
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.155305 ms
+timeTrue : 3.126521 ms
+
+Query : cah
+Approximate Nearest Neighbor : cah
+True Nearest Neighbor : cah
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104534 ms
+timeTrue : 3.175708 ms
+
+Query : cat
+Approximate Nearest Neighbor : cat
+True Nearest Neighbor : cat
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104144 ms
+timeTrue : 3.226014 ms
+
+Query : cb
+Approximate Nearest Neighbor : cb
+True Nearest Neighbor : cb
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104398 ms
+timeTrue : 3.251234 ms
+
+Query : cce
+Approximate Nearest Neighbor : cce
+True Nearest Neighbor : cce
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.157688 ms
+timeTrue : 3.272825 ms
+
+Query : ccl
+Approximate Nearest Neighbor : ccl
+True Nearest Neighbor : ccl
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.153691 ms
+timeTrue : 3.381267 ms
+
+Query : ceco
+Approximate Nearest Neighbor : ceco
+True Nearest Neighbor : ceco
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104499 ms
+timeTrue : 3.367453 ms
+
+Query : chkp
+Approximate Nearest Neighbor : chkp
+True Nearest Neighbor : chkp
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104533 ms
+timeTrue : 3.473196 ms
+
+Query : chrw
+Approximate Nearest Neighbor : chrw
+True Nearest Neighbor : chrw
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104277 ms
+timeTrue : 3.506419 ms
+
+Query : ci
+Approximate Nearest Neighbor : ci
+True Nearest Neighbor : ci
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104374 ms
+timeTrue : 3.572283 ms
+
+Query : cien
+Approximate Nearest Neighbor : cien
+True Nearest Neighbor : cien
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.154866 ms
+timeTrue : 3.581266 ms
+
+Query : cinf
+Approximate Nearest Neighbor : cinf
+True Nearest Neighbor : cinf
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.154304 ms
+timeTrue : 3.659373 ms
+
+Query : cl
+Approximate Nearest Neighbor : cl
+True Nearest Neighbor : cl
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104408 ms
+timeTrue : 3.692924 ms
+
+Query : clx
+Approximate Nearest Neighbor : clx
+True Nearest Neighbor : clx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104170 ms
+timeTrue : 3.703944 ms
+
+Query : cma
+Approximate Nearest Neighbor : cma
+True Nearest Neighbor : cma
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104424 ms
+timeTrue : 3.809138 ms
+
+Query : cmcsa
+Approximate Nearest Neighbor : cmcsa
+True Nearest Neighbor : cmcsa
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.153821 ms
+timeTrue : 3.870484 ms
+
+Query : cmi
+Approximate Nearest Neighbor : cmi
+True Nearest Neighbor : cmi
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104483 ms
+timeTrue : 3.897454 ms
+
+Query : cms
+Approximate Nearest Neighbor : cms
+True Nearest Neighbor : cms
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104800 ms
+timeTrue : 3.970211 ms
+
+Query : cnp
+Approximate Nearest Neighbor : cnp
+True Nearest Neighbor : cnp
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104655 ms
+timeTrue : 4.063464 ms
+
+Query : cof
+Approximate Nearest Neighbor : cof
+True Nearest Neighbor : cof
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104721 ms
+timeTrue : 4.017438 ms
+
+Query : col
+Approximate Nearest Neighbor : col
+True Nearest Neighbor : col
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104459 ms
+timeTrue : 4.106481 ms
+
+Query : cop
+Approximate Nearest Neighbor : cop
+True Nearest Neighbor : cop
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104231 ms
+timeTrue : 4.154645 ms
+
+Query : cost
+Approximate Nearest Neighbor : cost
+True Nearest Neighbor : cost
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.153883 ms
+timeTrue : 4.216633 ms
+
+Query : cpb
+Approximate Nearest Neighbor : cpb
+True Nearest Neighbor : cpb
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104806 ms
+timeTrue : 4.255726 ms
+
+Query : cr
+Approximate Nearest Neighbor : cr
+True Nearest Neighbor : cr
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.109275 ms
+timeTrue : 4.319576 ms
+
+Query : csco
+Approximate Nearest Neighbor : csco
+True Nearest Neighbor : csco
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104796 ms
+timeTrue : 4.340917 ms
+
+Query : csx
+Approximate Nearest Neighbor : csx
+True Nearest Neighbor : csx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104493 ms
+timeTrue : 4.392725 ms
+
+Query : ctas
+Approximate Nearest Neighbor : ctas
+True Nearest Neighbor : ctas
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104475 ms
+timeTrue : 4.413878 ms
+
+Query : ctb
+Approximate Nearest Neighbor : ctb
+True Nearest Neighbor : ctb
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104614 ms
+timeTrue : 4.518627 ms
+
+Query : ctl
+Approximate Nearest Neighbor : ctl
+True Nearest Neighbor : ctl
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105652 ms
+timeTrue : 4.551418 ms
+
+Query : ctxs
+Approximate Nearest Neighbor : ctxs
+True Nearest Neighbor : ctxs
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104636 ms
+timeTrue : 4.612724 ms
+
+Query : cvg
+Approximate Nearest Neighbor : cvg
+True Nearest Neighbor : cvg
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104781 ms
+timeTrue : 4.690674 ms
+
+Query : cvs
+Approximate Nearest Neighbor : cvs
+True Nearest Neighbor : cvs
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106554 ms
+timeTrue : 4.872509 ms
+
+Query : cvx
+Approximate Nearest Neighbor : cvx
+True Nearest Neighbor : cvx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.113202 ms
+timeTrue : 4.782889 ms
+
+Query : d
+Approximate Nearest Neighbor : d
+True Nearest Neighbor : d
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105937 ms
+timeTrue : 4.845690 ms
+
+Query : dal
+Approximate Nearest Neighbor : dal
+True Nearest Neighbor : dal
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104701 ms
+timeTrue : 4.857817 ms
+
+Query : dds
+Approximate Nearest Neighbor : dds
+True Nearest Neighbor : dds
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104235 ms
+timeTrue : 4.859338 ms
+
+Query : de
+Approximate Nearest Neighbor : de
+True Nearest Neighbor : de
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104388 ms
+timeTrue : 4.940261 ms
+
+Query : dgx
+Approximate Nearest Neighbor : dgx
+True Nearest Neighbor : dgx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106992 ms
+timeTrue : 5.008896 ms
+
+Query : dhr
+Approximate Nearest Neighbor : dhr
+True Nearest Neighbor : dhr
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104446 ms
+timeTrue : 5.076355 ms
+
+Query : dis
+Approximate Nearest Neighbor : dis
+True Nearest Neighbor : dis
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105826 ms
+timeTrue : 5.113511 ms
+
+Query : dish
+Approximate Nearest Neighbor : dish
+True Nearest Neighbor : dish
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104768 ms
+timeTrue : 5.154492 ms
+
+Query : dltr
+Approximate Nearest Neighbor : dltr
+True Nearest Neighbor : dltr
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104943 ms
+timeTrue : 5.198364 ms
+
+Query : dlx
+Approximate Nearest Neighbor : dlx
+True Nearest Neighbor : dlx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104204 ms
+timeTrue : 5.219859 ms
+
+Query : dov
+Approximate Nearest Neighbor : dov
+True Nearest Neighbor : dov
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106971 ms
+timeTrue : 5.280279 ms
+
+Query : dri
+Approximate Nearest Neighbor : dri
+True Nearest Neighbor : dri
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.155262 ms
+timeTrue : 5.358020 ms
+
+Query : dte
+Approximate Nearest Neighbor : dte
+True Nearest Neighbor : dte
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104184 ms
+timeTrue : 5.448878 ms
+
+Query : duk
+Approximate Nearest Neighbor : duk
+True Nearest Neighbor : duk
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104802 ms
+timeTrue : 5.435207 ms
+
+Query : dvn
+Approximate Nearest Neighbor : dvn
+True Nearest Neighbor : dvn
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104616 ms
+timeTrue : 5.614023 ms
+
+Query : dwdp
+Approximate Nearest Neighbor : dwdp
+True Nearest Neighbor : dwdp
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.108729 ms
+timeTrue : 6.038590 ms
+
+Query : dyn
+Approximate Nearest Neighbor : dyn
+True Nearest Neighbor : dyn
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.108155 ms
+timeTrue : 5.630268 ms
+
+Query : ebay
+Approximate Nearest Neighbor : ebay
+True Nearest Neighbor : ebay
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105818 ms
+timeTrue : 5.708588 ms
+
+Query : ecl
+Approximate Nearest Neighbor : ecl
+True Nearest Neighbor : ecl
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.118570 ms
+timeTrue : 5.691019 ms
+
+Query : ed
+Approximate Nearest Neighbor : ed
+True Nearest Neighbor : ed
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.118406 ms
+timeTrue : 5.735617 ms
+
+Query : efx
+Approximate Nearest Neighbor : efx
+True Nearest Neighbor : efx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.108035 ms
+timeTrue : 5.809497 ms
+
+Query : eix
+Approximate Nearest Neighbor : eix
+True Nearest Neighbor : eix
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105432 ms
+timeTrue : 5.853426 ms
+
+Query : emn
+Approximate Nearest Neighbor : emn
+True Nearest Neighbor : emn
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104969 ms
+timeTrue : 5.885421 ms
+
+Query : emr
+Approximate Nearest Neighbor : emr
+True Nearest Neighbor : emr
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104905 ms
+timeTrue : 5.914858 ms
+
+Query : ensv
+Approximate Nearest Neighbor : ensv
+True Nearest Neighbor : ensv
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104616 ms
+timeTrue : 5.974812 ms
+
+Query : eog
+Approximate Nearest Neighbor : eog
+True Nearest Neighbor : eog
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104564 ms
+timeTrue : 6.030953 ms
+
+Query : epc
+Approximate Nearest Neighbor : epc
+True Nearest Neighbor : epc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104638 ms
+timeTrue : 6.475806 ms
+
+Query : eqr
+Approximate Nearest Neighbor : eqr
+True Nearest Neighbor : eqr
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.110082 ms
+timeTrue : 6.220476 ms
+
+Query : esrx
+Approximate Nearest Neighbor : esrx
+True Nearest Neighbor : esrx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105965 ms
+timeTrue : 6.211657 ms
+
+Query : etfc
+Approximate Nearest Neighbor : etfc
+True Nearest Neighbor : etfc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106816 ms
+timeTrue : 6.249918 ms
+
+Query : etn
+Approximate Nearest Neighbor : etn
+True Nearest Neighbor : etn
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105457 ms
+timeTrue : 6.297512 ms
+
+Query : etr
+Approximate Nearest Neighbor : etr
+True Nearest Neighbor : etr
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104754 ms
+timeTrue : 6.363464 ms
+
+Query : exc
+Approximate Nearest Neighbor : exc
+True Nearest Neighbor : exc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105075 ms
+timeTrue : 6.414112 ms
+
+Query : expd
+Approximate Nearest Neighbor : expd
+True Nearest Neighbor : expd
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.155144 ms
+timeTrue : 6.373569 ms
+
+Query : f
+Approximate Nearest Neighbor : f
+True Nearest Neighbor : f
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105332 ms
+timeTrue : 6.498802 ms
+
+Query : fast
+Approximate Nearest Neighbor : fast
+True Nearest Neighbor : fast
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.204354 ms
+timeTrue : 6.516704 ms
+
+Query : fcx
+Approximate Nearest Neighbor : fcx
+True Nearest Neighbor : fcx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104720 ms
+timeTrue : 6.603883 ms
+
+Query : fdx
+Approximate Nearest Neighbor : fdx
+True Nearest Neighbor : fdx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106730 ms
+timeTrue : 6.691376 ms
+
+Query : fe
+Approximate Nearest Neighbor : fe
+True Nearest Neighbor : fe
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.155457 ms
+timeTrue : 6.698939 ms
+
+Query : fhn
+Approximate Nearest Neighbor : fhn
+True Nearest Neighbor : fhn
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104732 ms
+timeTrue : 6.734578 ms
+
+Query : fii
+Approximate Nearest Neighbor : fii
+True Nearest Neighbor : fii
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104870 ms
+timeTrue : 6.768656 ms
+
+Query : fisv
+Approximate Nearest Neighbor : fisv
+True Nearest Neighbor : fisv
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104496 ms
+timeTrue : 7.130740 ms
+
+Query : fitb
+Approximate Nearest Neighbor : fitb
+True Nearest Neighbor : fitb
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.158568 ms
+timeTrue : 6.948944 ms
+
+Query : flex
+Approximate Nearest Neighbor : flex
+True Nearest Neighbor : flex
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.156575 ms
+timeTrue : 6.961272 ms
+
+Query : flr
+Approximate Nearest Neighbor : flr
+True Nearest Neighbor : flr
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105725 ms
+timeTrue : 7.062266 ms
+
+Query : gd
+Approximate Nearest Neighbor : gd
+True Nearest Neighbor : gd
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104603 ms
+timeTrue : 7.126474 ms
+
+Query : ge
+Approximate Nearest Neighbor : ge
+True Nearest Neighbor : ge
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104731 ms
+timeTrue : 7.100649 ms
+
+Query : gfi
+Approximate Nearest Neighbor : gfi
+True Nearest Neighbor : gfi
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.206378 ms
+timeTrue : 7.137947 ms
+
+Query : gg
+Approximate Nearest Neighbor : gg
+True Nearest Neighbor : gg
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104898 ms
+timeTrue : 7.177576 ms
+
+Query : gild
+Approximate Nearest Neighbor : gild
+True Nearest Neighbor : gild
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104909 ms
+timeTrue : 7.248682 ms
+
+Query : gis
+Approximate Nearest Neighbor : gis
+True Nearest Neighbor : gis
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.155577 ms
+timeTrue : 7.191812 ms
+
+Query : glw
+Approximate Nearest Neighbor : glw
+True Nearest Neighbor : glw
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.156257 ms
+timeTrue : 7.270428 ms
+
+Query : gntx
+Approximate Nearest Neighbor : gntx
+True Nearest Neighbor : gntx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104627 ms
+timeTrue : 8.085506 ms
+
+Query : gpc
+Approximate Nearest Neighbor : gpc
+True Nearest Neighbor : gpc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.115935 ms
+timeTrue : 7.915142 ms
+
+Query : gps
+Approximate Nearest Neighbor : gps
+True Nearest Neighbor : gps
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.109935 ms
+timeTrue : 7.720132 ms
+
+Query : grmn
+Approximate Nearest Neighbor : grmn
+True Nearest Neighbor : grmn
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.160543 ms
+timeTrue : 7.588946 ms
+
+Query : gs
+Approximate Nearest Neighbor : gs
+True Nearest Neighbor : gs
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107070 ms
+timeTrue : 7.735065 ms
+
+Query : gt
+Approximate Nearest Neighbor : gt
+True Nearest Neighbor : gt
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107719 ms
+timeTrue : 7.642276 ms
+
+Query : gww
+Approximate Nearest Neighbor : gww
+True Nearest Neighbor : gww
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105941 ms
+timeTrue : 7.640053 ms
+
+Query : hal
+Approximate Nearest Neighbor : hal
+True Nearest Neighbor : hal
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105686 ms
+timeTrue : 7.737846 ms
+
+Query : has
+Approximate Nearest Neighbor : has
+True Nearest Neighbor : has
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104814 ms
+timeTrue : 7.859486 ms
+
+Query : hd
+Approximate Nearest Neighbor : hd
+True Nearest Neighbor : hd
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105411 ms
+timeTrue : 7.737385 ms
+
+Query : hig
+Approximate Nearest Neighbor : hig
+True Nearest Neighbor : hig
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105414 ms
+timeTrue : 7.882386 ms
+
+Query : hmy
+Approximate Nearest Neighbor : hmy
+True Nearest Neighbor : hmy
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105099 ms
+timeTrue : 7.928621 ms
+
+Query : hon
+Approximate Nearest Neighbor : hon
+True Nearest Neighbor : hon
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104738 ms
+timeTrue : 7.999572 ms
+
+Query : hpq
+Approximate Nearest Neighbor : hpq
+True Nearest Neighbor : hpq
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105605 ms
+timeTrue : 8.032216 ms
+
+Query : hrb
+Approximate Nearest Neighbor : hrb
+True Nearest Neighbor : hrb
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105186 ms
+timeTrue : 8.054069 ms
+
+Query : hsic
+Approximate Nearest Neighbor : hsic
+True Nearest Neighbor : hsic
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104821 ms
+timeTrue : 8.154492 ms
+
+Query : hsy
+Approximate Nearest Neighbor : hsy
+True Nearest Neighbor : hsy
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105002 ms
+timeTrue : 8.134497 ms
+
+Query : hum
+Approximate Nearest Neighbor : hum
+True Nearest Neighbor : hum
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106062 ms
+timeTrue : 8.221448 ms
+
+Query : iac
+Approximate Nearest Neighbor : iac
+True Nearest Neighbor : iac
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105298 ms
+timeTrue : 8.325988 ms
+
+Query : ibm
+Approximate Nearest Neighbor : ibm
+True Nearest Neighbor : ibm
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106026 ms
+timeTrue : 8.339664 ms
+
+Query : iff
+Approximate Nearest Neighbor : iff
+True Nearest Neighbor : iff
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105684 ms
+timeTrue : 8.366231 ms
+
+Query : intc
+Approximate Nearest Neighbor : intc
+True Nearest Neighbor : intc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.203727 ms
+timeTrue : 9.134264 ms
+
+Query : intu
+Approximate Nearest Neighbor : intu
+True Nearest Neighbor : intu
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.110923 ms
+timeTrue : 8.592797 ms
+
+Query : ip
+Approximate Nearest Neighbor : ip
+True Nearest Neighbor : ip
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107483 ms
+timeTrue : 8.632339 ms
+
+Query : ipg
+Approximate Nearest Neighbor : ipg
+True Nearest Neighbor : ipg
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.163997 ms
+timeTrue : 8.617641 ms
+
+Query : ir
+Approximate Nearest Neighbor : ir
+True Nearest Neighbor : ir
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106194 ms
+timeTrue : 8.676471 ms
+
+Query : itt
+Approximate Nearest Neighbor : itt
+True Nearest Neighbor : itt
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.156811 ms
+timeTrue : 8.637090 ms
+
+Query : itus
+Approximate Nearest Neighbor : itus
+True Nearest Neighbor : itus
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104967 ms
+timeTrue : 8.710706 ms
+
+Query : itw
+Approximate Nearest Neighbor : itw
+True Nearest Neighbor : itw
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104946 ms
+timeTrue : 8.711869 ms
+
+Query : jbl
+Approximate Nearest Neighbor : jbl
+True Nearest Neighbor : jbl
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.158404 ms
+timeTrue : 8.823755 ms
+
+Query : jci
+Approximate Nearest Neighbor : jci
+True Nearest Neighbor : jci
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.155260 ms
+timeTrue : 8.837526 ms
+
+Query : jcp
+Approximate Nearest Neighbor : jcp
+True Nearest Neighbor : jcp
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105510 ms
+timeTrue : 8.905687 ms
+
+Query : jhg
+Approximate Nearest Neighbor : jhg
+True Nearest Neighbor : jhg
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.155418 ms
+timeTrue : 8.992265 ms
+
+Query : jnj
+Approximate Nearest Neighbor : jnj
+True Nearest Neighbor : jnj
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104936 ms
+timeTrue : 9.015833 ms
+
+Query : jnpr
+Approximate Nearest Neighbor : jnpr
+True Nearest Neighbor : jnpr
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105594 ms
+timeTrue : 9.077134 ms
+
+Query : jpm
+Approximate Nearest Neighbor : jpm
+True Nearest Neighbor : jpm
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.155438 ms
+timeTrue : 9.116711 ms
+
+Query : jwn
+Approximate Nearest Neighbor : jwn
+True Nearest Neighbor : jwn
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104780 ms
+timeTrue : 9.147373 ms
+
+Query : k
+Approximate Nearest Neighbor : k
+True Nearest Neighbor : k
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104700 ms
+timeTrue : 9.216451 ms
+
+Query : kbal
+Approximate Nearest Neighbor : kbal
+True Nearest Neighbor : kbal
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105822 ms
+timeTrue : 9.210806 ms
+
+Query : kbh
+Approximate Nearest Neighbor : kbh
+True Nearest Neighbor : kbh
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104613 ms
+timeTrue : 9.343011 ms
+
+Query : key
+Approximate Nearest Neighbor : key
+True Nearest Neighbor : key
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.157035 ms
+timeTrue : 9.313012 ms
+
+Query : kgc
+Approximate Nearest Neighbor : kgc
+True Nearest Neighbor : kgc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105215 ms
+timeTrue : 9.408055 ms
+
+Query : klac
+Approximate Nearest Neighbor : klac
+True Nearest Neighbor : klac
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.155708 ms
+timeTrue : 9.465534 ms
+
+Query : kmb
+Approximate Nearest Neighbor : kmb
+True Nearest Neighbor : kmb
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104586 ms
+timeTrue : 9.420130 ms
+
+Query : ko
+Approximate Nearest Neighbor : ko
+True Nearest Neighbor : ko
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.155901 ms
+timeTrue : 9.565717 ms
+
+Query : kr
+Approximate Nearest Neighbor : kr
+True Nearest Neighbor : kr
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105251 ms
+timeTrue : 9.631956 ms
+
+Query : kss
+Approximate Nearest Neighbor : kss
+True Nearest Neighbor : kss
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104737 ms
+timeTrue : 9.662661 ms
+
+Query : lamr
+Approximate Nearest Neighbor : lamr
+True Nearest Neighbor : lamr
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104825 ms
+timeTrue : 9.719375 ms
+
+Query : lb
+Approximate Nearest Neighbor : lb
+True Nearest Neighbor : lb
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104921 ms
+timeTrue : 9.765158 ms
+
+Query : leg
+Approximate Nearest Neighbor : leg
+True Nearest Neighbor : leg
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.206585 ms
+timeTrue : 9.828524 ms
+
+Query : leu
+Approximate Nearest Neighbor : leu
+True Nearest Neighbor : leu
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104802 ms
+timeTrue : 9.838916 ms
+
+Query : lly
+Approximate Nearest Neighbor : lly
+True Nearest Neighbor : lly
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105139 ms
+timeTrue : 9.934547 ms
+
+Query : lmt
+Approximate Nearest Neighbor : lmt
+True Nearest Neighbor : lmt
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105294 ms
+timeTrue : 9.977392 ms
+
+Query : lnc
+Approximate Nearest Neighbor : lnc
+True Nearest Neighbor : lnc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105109 ms
+timeTrue : 10.012035 ms
+
+Query : low
+Approximate Nearest Neighbor : low
+True Nearest Neighbor : low
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105012 ms
+timeTrue : 10.077294 ms
+
+Query : lpx
+Approximate Nearest Neighbor : lpx
+True Nearest Neighbor : lpx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.204902 ms
+timeTrue : 10.156411 ms
+
+Query : lrcx
+Approximate Nearest Neighbor : lrcx
+True Nearest Neighbor : lrcx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105544 ms
+timeTrue : 10.095400 ms
+
+Query : luv
+Approximate Nearest Neighbor : luv
+True Nearest Neighbor : luv
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107709 ms
+timeTrue : 10.197406 ms
+
+Query : lvlt
+Approximate Nearest Neighbor : lvlt
+True Nearest Neighbor : lvlt
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104909 ms
+timeTrue : 10.330073 ms
+
+Query : mar
+Approximate Nearest Neighbor : mar
+True Nearest Neighbor : mar
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105716 ms
+timeTrue : 10.280115 ms
+
+Query : mas
+Approximate Nearest Neighbor : mas
+True Nearest Neighbor : mas
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104500 ms
+timeTrue : 10.323553 ms
+
+Query : mat
+Approximate Nearest Neighbor : mat
+True Nearest Neighbor : mat
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105173 ms
+timeTrue : 10.413840 ms
+
+Query : mbi
+Approximate Nearest Neighbor : mbi
+True Nearest Neighbor : mbi
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105033 ms
+timeTrue : 10.466293 ms
+
+Query : mcd
+Approximate Nearest Neighbor : mcd
+True Nearest Neighbor : mcd
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104888 ms
+timeTrue : 10.633299 ms
+
+Query : mchp
+Approximate Nearest Neighbor : mchp
+True Nearest Neighbor : mchp
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.309121 ms
+timeTrue : 10.821241 ms
+
+Query : mck
+Approximate Nearest Neighbor : mck
+True Nearest Neighbor : mck
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.118588 ms
+timeTrue : 10.785556 ms
+
+Query : mco
+Approximate Nearest Neighbor : mco
+True Nearest Neighbor : mco
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.123255 ms
+timeTrue : 10.764721 ms
+
+Query : mdp
+Approximate Nearest Neighbor : mdp
+True Nearest Neighbor : mdp
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107166 ms
+timeTrue : 10.809142 ms
+
+Query : mdt
+Approximate Nearest Neighbor : mdt
+True Nearest Neighbor : mdt
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106376 ms
+timeTrue : 10.776618 ms
+
+Query : met
+Approximate Nearest Neighbor : met
+True Nearest Neighbor : met
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106984 ms
+timeTrue : 10.807637 ms
+
+Query : mitk
+Approximate Nearest Neighbor : mitk
+True Nearest Neighbor : mitk
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.156496 ms
+timeTrue : 10.793847 ms
+
+Query : mkc
+Approximate Nearest Neighbor : mkc
+True Nearest Neighbor : mkc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106343 ms
+timeTrue : 10.921585 ms
+
+Query : mmc
+Approximate Nearest Neighbor : mmc
+True Nearest Neighbor : mmc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105701 ms
+timeTrue : 10.954855 ms
+
+Query : mmm
+Approximate Nearest Neighbor : mmm
+True Nearest Neighbor : mmm
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106185 ms
+timeTrue : 10.987350 ms
+
+Query : mo
+Approximate Nearest Neighbor : mo
+True Nearest Neighbor : mo
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106069 ms
+timeTrue : 11.096365 ms
+
+Query : mon
+Approximate Nearest Neighbor : mon
+True Nearest Neighbor : mon
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106991 ms
+timeTrue : 11.049381 ms
+
+Query : mrk
+Approximate Nearest Neighbor : mrk
+True Nearest Neighbor : mrk
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106489 ms
+timeTrue : 11.146004 ms
+
+Query : mro
+Approximate Nearest Neighbor : mro
+True Nearest Neighbor : mro
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106710 ms
+timeTrue : 11.211449 ms
+
+Query : mrvl
+Approximate Nearest Neighbor : mrvl
+True Nearest Neighbor : mrvl
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.259447 ms
+timeTrue : 11.239925 ms
+
+Query : msa
+Approximate Nearest Neighbor : msa
+True Nearest Neighbor : msa
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.155000 ms
+timeTrue : 11.311267 ms
+
+Query : msft
+Approximate Nearest Neighbor : msft
+True Nearest Neighbor : msft
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105854 ms
+timeTrue : 11.283453 ms
+
+Query : mtb
+Approximate Nearest Neighbor : mtb
+True Nearest Neighbor : mtb
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104889 ms
+timeTrue : 11.372893 ms
+
+Query : mtg
+Approximate Nearest Neighbor : mtg
+True Nearest Neighbor : mtg
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105532 ms
+timeTrue : 11.432383 ms
+
+Query : mu
+Approximate Nearest Neighbor : mu
+True Nearest Neighbor : mu
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.104897 ms
+timeTrue : 11.481248 ms
+
+Query : mxim
+Approximate Nearest Neighbor : mxim
+True Nearest Neighbor : mxim
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105529 ms
+timeTrue : 11.564144 ms
+
+Query : nav
+Approximate Nearest Neighbor : nav
+True Nearest Neighbor : nav
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.128385 ms
+timeTrue : 12.008250 ms
+
+Query : nbr
+Approximate Nearest Neighbor : nbr
+True Nearest Neighbor : nbr
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.157949 ms
+timeTrue : 11.950509 ms
+
+Query : ncr
+Approximate Nearest Neighbor : ncr
+True Nearest Neighbor : ncr
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.108025 ms
+timeTrue : 11.995680 ms
+
+Query : ne
+Approximate Nearest Neighbor : ne
+True Nearest Neighbor : ne
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.174820 ms
+timeTrue : 11.909545 ms
+
+Query : nem
+Approximate Nearest Neighbor : nem
+True Nearest Neighbor : nem
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107012 ms
+timeTrue : 11.884696 ms
+
+Query : ni
+Approximate Nearest Neighbor : ni
+True Nearest Neighbor : ni
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107057 ms
+timeTrue : 11.904767 ms
+
+Query : nke
+Approximate Nearest Neighbor : nke
+True Nearest Neighbor : nke
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106766 ms
+timeTrue : 11.933413 ms
+
+Query : noc
+Approximate Nearest Neighbor : noc
+True Nearest Neighbor : noc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106203 ms
+timeTrue : 11.950525 ms
+
+Query : nsc
+Approximate Nearest Neighbor : nsc
+True Nearest Neighbor : nsc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107092 ms
+timeTrue : 11.998710 ms
+
+Query : ntap
+Approximate Nearest Neighbor : ntap
+True Nearest Neighbor : ntap
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106297 ms
+timeTrue : 12.128798 ms
+
+Query : ntrs
+Approximate Nearest Neighbor : ntrs
+True Nearest Neighbor : ntrs
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.157826 ms
+timeTrue : 12.327663 ms
+
+Query : nue
+Approximate Nearest Neighbor : nue
+True Nearest Neighbor : nue
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.109455 ms
+timeTrue : 12.344820 ms
+
+Query : nvda
+Approximate Nearest Neighbor : nvda
+True Nearest Neighbor : nvda
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107468 ms
+timeTrue : 12.412836 ms
+
+Query : nwl
+Approximate Nearest Neighbor : nwl
+True Nearest Neighbor : nwl
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.160003 ms
+timeTrue : 12.430748 ms
+
+Query : nyt
+Approximate Nearest Neighbor : nyt
+True Nearest Neighbor : nyt
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107839 ms
+timeTrue : 12.496628 ms
+
+Query : odp
+Approximate Nearest Neighbor : odp
+True Nearest Neighbor : odp
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.121844 ms
+timeTrue : 12.554782 ms
+
+Query : omc
+Approximate Nearest Neighbor : omc
+True Nearest Neighbor : omc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107671 ms
+timeTrue : 12.607120 ms
+
+Query : orcl
+Approximate Nearest Neighbor : orcl
+True Nearest Neighbor : orcl
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.260839 ms
+timeTrue : 12.648439 ms
+
+Query : oxy
+Approximate Nearest Neighbor : oxy
+True Nearest Neighbor : oxy
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.108154 ms
+timeTrue : 12.694201 ms
+
+Query : payx
+Approximate Nearest Neighbor : payx
+True Nearest Neighbor : payx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107518 ms
+timeTrue : 12.721427 ms
+
+Query : pbi
+Approximate Nearest Neighbor : pbi
+True Nearest Neighbor : pbi
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107020 ms
+timeTrue : 14.792772 ms
+
+Query : pcar
+Approximate Nearest Neighbor : pcar
+True Nearest Neighbor : pcar
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.268454 ms
+timeTrue : 18.487412 ms
+
+Query : pcg
+Approximate Nearest Neighbor : pcg
+True Nearest Neighbor : pcg
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.244900 ms
+timeTrue : 14.332652 ms
+
+Query : pdco
+Approximate Nearest Neighbor : pdco
+True Nearest Neighbor : pdco
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.110315 ms
+timeTrue : 13.728958 ms
+
+Query : peg
+Approximate Nearest Neighbor : peg
+True Nearest Neighbor : peg
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.171538 ms
+timeTrue : 16.877863 ms
+
+Query : pep
+Approximate Nearest Neighbor : pep
+True Nearest Neighbor : pep
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.119560 ms
+timeTrue : 14.938630 ms
+
+Query : pfe
+Approximate Nearest Neighbor : pfe
+True Nearest Neighbor : pfe
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.214692 ms
+timeTrue : 13.184211 ms
+
+Query : pfg
+Approximate Nearest Neighbor : pfg
+True Nearest Neighbor : pfg
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107794 ms
+timeTrue : 14.886903 ms
+
+Query : pg
+Approximate Nearest Neighbor : pg
+True Nearest Neighbor : pg
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.109874 ms
+timeTrue : 15.269306 ms
+
+Query : pgr
+Approximate Nearest Neighbor : pgr
+True Nearest Neighbor : pgr
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.319679 ms
+timeTrue : 13.975894 ms
+
+Query : ph
+Approximate Nearest Neighbor : ph
+True Nearest Neighbor : ph
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.120086 ms
+timeTrue : 13.251516 ms
+
+Query : phm
+Approximate Nearest Neighbor : phm
+True Nearest Neighbor : phm
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.259082 ms
+timeTrue : 13.202768 ms
+
+Query : pki
+Approximate Nearest Neighbor : pki
+True Nearest Neighbor : pki
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107407 ms
+timeTrue : 13.366345 ms
+
+Query : pld
+Approximate Nearest Neighbor : pld
+True Nearest Neighbor : pld
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.108621 ms
+timeTrue : 13.374771 ms
+
+Query : pnc
+Approximate Nearest Neighbor : pnc
+True Nearest Neighbor : pnc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.158729 ms
+timeTrue : 13.497999 ms
+
+Query : pnw
+Approximate Nearest Neighbor : pnw
+True Nearest Neighbor : pnw
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.125051 ms
+timeTrue : 14.575286 ms
+
+Query : ppg
+Approximate Nearest Neighbor : ppg
+True Nearest Neighbor : ppg
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.139722 ms
+timeTrue : 13.912230 ms
+
+Query : ppl
+Approximate Nearest Neighbor : ppl
+True Nearest Neighbor : ppl
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.111334 ms
+timeTrue : 13.604149 ms
+
+Query : pru
+Approximate Nearest Neighbor : pru
+True Nearest Neighbor : pru
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.108306 ms
+timeTrue : 13.567828 ms
+
+Query : pten
+Approximate Nearest Neighbor : pten
+True Nearest Neighbor : pten
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.114350 ms
+timeTrue : 13.575982 ms
+
+Query : px
+Approximate Nearest Neighbor : px
+True Nearest Neighbor : px
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107558 ms
+timeTrue : 13.628175 ms
+
+Query : qcom
+Approximate Nearest Neighbor : qcom
+True Nearest Neighbor : qcom
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106981 ms
+timeTrue : 14.221792 ms
+
+Query : r
+Approximate Nearest Neighbor : r
+True Nearest Neighbor : r
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.109187 ms
+timeTrue : 14.659556 ms
+
+Query : rave
+Approximate Nearest Neighbor : rave
+True Nearest Neighbor : rave
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.111276 ms
+timeTrue : 14.010677 ms
+
+Query : rdc
+Approximate Nearest Neighbor : rdc
+True Nearest Neighbor : rdc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.112244 ms
+timeTrue : 14.728047 ms
+
+Query : rf
+Approximate Nearest Neighbor : rf
+True Nearest Neighbor : rf
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.109605 ms
+timeTrue : 14.290131 ms
+
+Query : rhi
+Approximate Nearest Neighbor : rhi
+True Nearest Neighbor : rhi
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.184200 ms
+timeTrue : 14.043481 ms
+
+Query : rig
+Approximate Nearest Neighbor : rig
+True Nearest Neighbor : rig
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.110529 ms
+timeTrue : 14.009908 ms
+
+Query : rok
+Approximate Nearest Neighbor : rok
+True Nearest Neighbor : rok
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.108052 ms
+timeTrue : 14.049625 ms
+
+Query : rost
+Approximate Nearest Neighbor : rost
+True Nearest Neighbor : rost
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106986 ms
+timeTrue : 14.000164 ms
+
+Query : rrd
+Approximate Nearest Neighbor : rrd
+True Nearest Neighbor : rrd
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.156657 ms
+timeTrue : 14.128642 ms
+
+Query : rtn
+Approximate Nearest Neighbor : rtn
+True Nearest Neighbor : rtn
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105984 ms
+timeTrue : 14.714079 ms
+
+Query : ryaay
+Approximate Nearest Neighbor : ryaay
+True Nearest Neighbor : ryaay
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.110933 ms
+timeTrue : 14.563423 ms
+
+Query : sanm
+Approximate Nearest Neighbor : sanm
+True Nearest Neighbor : sanm
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106946 ms
+timeTrue : 14.255625 ms
+
+Query : sbux
+Approximate Nearest Neighbor : sbux
+True Nearest Neighbor : sbux
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106410 ms
+timeTrue : 14.285856 ms
+
+Query : schw
+Approximate Nearest Neighbor : schw
+True Nearest Neighbor : schw
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106392 ms
+timeTrue : 16.164798 ms
+
+Query : seb
+Approximate Nearest Neighbor : seb
+True Nearest Neighbor : seb
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.109651 ms
+timeTrue : 14.996112 ms
+
+Query : see
+Approximate Nearest Neighbor : see
+True Nearest Neighbor : see
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.158561 ms
+timeTrue : 16.811310 ms
+
+Query : slb
+Approximate Nearest Neighbor : slb
+True Nearest Neighbor : slb
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.110349 ms
+timeTrue : 15.296481 ms
+
+Query : slm
+Approximate Nearest Neighbor : slm
+True Nearest Neighbor : slm
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.140790 ms
+timeTrue : 16.303401 ms
+
+Query : sna
+Approximate Nearest Neighbor : sna
+True Nearest Neighbor : sna
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.109450 ms
+timeTrue : 15.229580 ms
+
+Query : snps
+Approximate Nearest Neighbor : snps
+True Nearest Neighbor : snps
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.108627 ms
+timeTrue : 15.531980 ms
+
+Query : snv
+Approximate Nearest Neighbor : snv
+True Nearest Neighbor : snv
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.115368 ms
+timeTrue : 14.958029 ms
+
+Query : so
+Approximate Nearest Neighbor : so
+True Nearest Neighbor : so
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.108703 ms
+timeTrue : 15.053837 ms
+
+Query : spg
+Approximate Nearest Neighbor : spg
+True Nearest Neighbor : spg
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.108030 ms
+timeTrue : 15.018757 ms
+
+Query : spgi
+Approximate Nearest Neighbor : spgi
+True Nearest Neighbor : spgi
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.108296 ms
+timeTrue : 14.834031 ms
+
+Query : sre
+Approximate Nearest Neighbor : sre
+True Nearest Neighbor : sre
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106529 ms
+timeTrue : 14.933996 ms
+
+Query : sti
+Approximate Nearest Neighbor : sti
+True Nearest Neighbor : sti
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.109163 ms
+timeTrue : 14.922749 ms
+
+Query : stt
+Approximate Nearest Neighbor : stt
+True Nearest Neighbor : stt
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106545 ms
+timeTrue : 15.015918 ms
+
+Query : svu
+Approximate Nearest Neighbor : svu
+True Nearest Neighbor : svu
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106715 ms
+timeTrue : 15.021572 ms
+
+Query : swk
+Approximate Nearest Neighbor : swk
+True Nearest Neighbor : swk
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.124603 ms
+timeTrue : 15.474756 ms
+
+Query : syk
+Approximate Nearest Neighbor : syk
+True Nearest Neighbor : syk
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.110672 ms
+timeTrue : 15.130353 ms
+
+Query : symc
+Approximate Nearest Neighbor : symc
+True Nearest Neighbor : symc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.157550 ms
+timeTrue : 15.452002 ms
+
+Query : syy
+Approximate Nearest Neighbor : syy
+True Nearest Neighbor : syy
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.208856 ms
+timeTrue : 15.272894 ms
+
+Query : t
+Approximate Nearest Neighbor : t
+True Nearest Neighbor : t
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.312217 ms
+timeTrue : 15.372361 ms
+
+Query : ter
+Approximate Nearest Neighbor : ter
+True Nearest Neighbor : ter
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.157277 ms
+timeTrue : 15.334506 ms
+
+Query : teva
+Approximate Nearest Neighbor : teva
+True Nearest Neighbor : teva
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105765 ms
+timeTrue : 15.437020 ms
+
+Query : tgna
+Approximate Nearest Neighbor : tgna
+True Nearest Neighbor : tgna
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105863 ms
+timeTrue : 15.455202 ms
+
+Query : tgt
+Approximate Nearest Neighbor : tgt
+True Nearest Neighbor : tgt
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105549 ms
+timeTrue : 15.524508 ms
+
+Query : thc
+Approximate Nearest Neighbor : thc
+True Nearest Neighbor : thc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107666 ms
+timeTrue : 16.404730 ms
+
+Query : tif
+Approximate Nearest Neighbor : tif
+True Nearest Neighbor : tif
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.164254 ms
+timeTrue : 15.735527 ms
+
+Query : tjx
+Approximate Nearest Neighbor : tjx
+True Nearest Neighbor : tjx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.109742 ms
+timeTrue : 15.841709 ms
+
+Query : tkf
+Approximate Nearest Neighbor : tkf
+True Nearest Neighbor : tkf
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.310452 ms
+timeTrue : 15.799338 ms
+
+Query : tmk
+Approximate Nearest Neighbor : tmk
+True Nearest Neighbor : tmk
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.106269 ms
+timeTrue : 15.820845 ms
+
+Query : tmo
+Approximate Nearest Neighbor : tmo
+True Nearest Neighbor : tmo
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107246 ms
+timeTrue : 15.763484 ms
+
+Query : trow
+Approximate Nearest Neighbor : trow
+True Nearest Neighbor : trow
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.105239 ms
+timeTrue : 16.972660 ms
+
+Query : trxc
+Approximate Nearest Neighbor : trxc
+True Nearest Neighbor : trxc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.115972 ms
+timeTrue : 20.843575 ms
+
+Query : ttnp
+Approximate Nearest Neighbor : ttnp
+True Nearest Neighbor : ttnp
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.125461 ms
+timeTrue : 18.601070 ms
+
+Query : twx
+Approximate Nearest Neighbor : twx
+True Nearest Neighbor : twx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.110759 ms
+timeTrue : 18.448820 ms
+
+Query : txn
+Approximate Nearest Neighbor : txn
+True Nearest Neighbor : txn
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.166238 ms
+timeTrue : 17.735619 ms
+
+Query : txt
+Approximate Nearest Neighbor : txt
+True Nearest Neighbor : txt
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.110526 ms
+timeTrue : 17.971592 ms
+
+Query : uis
+Approximate Nearest Neighbor : uis
+True Nearest Neighbor : uis
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.176361 ms
+timeTrue : 17.805204 ms
+
+Query : unh
+Approximate Nearest Neighbor : unh
+True Nearest Neighbor : unh
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.115987 ms
+timeTrue : 18.204343 ms
+
+Query : unm
+Approximate Nearest Neighbor : unm
+True Nearest Neighbor : unm
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.151666 ms
+timeTrue : 18.519167 ms
+
+Query : unp
+Approximate Nearest Neighbor : unp
+True Nearest Neighbor : unp
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.110040 ms
+timeTrue : 18.196768 ms
+
+Query : ups
+Approximate Nearest Neighbor : ups
+True Nearest Neighbor : ups
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.110634 ms
+timeTrue : 18.297843 ms
+
+Query : usb
+Approximate Nearest Neighbor : usb
+True Nearest Neighbor : usb
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.403012 ms
+timeTrue : 18.353889 ms
+
+Query : utx
+Approximate Nearest Neighbor : utx
+True Nearest Neighbor : utx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.109183 ms
+timeTrue : 18.300686 ms
+
+Query : vfc
+Approximate Nearest Neighbor : vfc
+True Nearest Neighbor : vfc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.109896 ms
+timeTrue : 17.835745 ms
+
+Query : viav
+Approximate Nearest Neighbor : viav
+True Nearest Neighbor : viav
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.212196 ms
+timeTrue : 18.488266 ms
+
+Query : vmc
+Approximate Nearest Neighbor : vmc
+True Nearest Neighbor : vmc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.155342 ms
+timeTrue : 18.556262 ms
+
+Query : vrsn
+Approximate Nearest Neighbor : vrsn
+True Nearest Neighbor : vrsn
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.116753 ms
+timeTrue : 19.023138 ms
+
+Query : vz
+Approximate Nearest Neighbor : vz
+True Nearest Neighbor : vz
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.270945 ms
+timeTrue : 27.276863 ms
+
+Query : wat
+Approximate Nearest Neighbor : wat
+True Nearest Neighbor : wat
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.184845 ms
+timeTrue : 21.129050 ms
+
+Query : wba
+Approximate Nearest Neighbor : wba
+True Nearest Neighbor : wba
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.109453 ms
+timeTrue : 17.923064 ms
+
+Query : wec
+Approximate Nearest Neighbor : wec
+True Nearest Neighbor : wec
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.160783 ms
+timeTrue : 17.762577 ms
+
+Query : wen
+Approximate Nearest Neighbor : wen
+True Nearest Neighbor : wen
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.160240 ms
+timeTrue : 17.740143 ms
+
+Query : wfc
+Approximate Nearest Neighbor : wfc
+True Nearest Neighbor : wfc
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.410287 ms
+timeTrue : 17.854021 ms
+
+Query : whr
+Approximate Nearest Neighbor : whr
+True Nearest Neighbor : whr
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.109559 ms
+timeTrue : 17.972156 ms
+
+Query : wmb
+Approximate Nearest Neighbor : wmb
+True Nearest Neighbor : wmb
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.110842 ms
+timeTrue : 17.915558 ms
+
+Query : wmt
+Approximate Nearest Neighbor : wmt
+True Nearest Neighbor : wmt
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.134043 ms
+timeTrue : 17.871175 ms
+
+Query : wor
+Approximate Nearest Neighbor : wor
+True Nearest Neighbor : wor
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.230012 ms
+timeTrue : 18.224017 ms
+
+Query : wy
+Approximate Nearest Neighbor : wy
+True Nearest Neighbor : wy
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.424951 ms
+timeTrue : 18.241535 ms
+
+Query : x
+Approximate Nearest Neighbor : x
+True Nearest Neighbor : x
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.109640 ms
+timeTrue : 17.742122 ms
+
+Query : xel
+Approximate Nearest Neighbor : xel
+True Nearest Neighbor : xel
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.164310 ms
+timeTrue : 17.515929 ms
+
+Query : xl
+Approximate Nearest Neighbor : xl
+True Nearest Neighbor : xl
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.107594 ms
+timeTrue : 17.585016 ms
+
+Query : xlnx
+Approximate Nearest Neighbor : xlnx
+True Nearest Neighbor : xlnx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.108304 ms
+timeTrue : 18.024214 ms
+
+Query : xom
+Approximate Nearest Neighbor : xom
+True Nearest Neighbor : xom
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.110801 ms
+timeTrue : 17.974050 ms
+
+Query : xray
+Approximate Nearest Neighbor : xray
+True Nearest Neighbor : xray
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.110173 ms
+timeTrue : 18.709434 ms
+
+Query : xrx
+Approximate Nearest Neighbor : xrx
+True Nearest Neighbor : xrx
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.110214 ms
+timeTrue : 17.897622 ms
+
+Query : yum
+Approximate Nearest Neighbor : yum
+True Nearest Neighbor : yum
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.109472 ms
+timeTrue : 18.460275 ms
+
+Query : zbh
+Approximate Nearest Neighbor : zbh
+True Nearest Neighbor : zbh
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.146614 ms
+timeTrue : 19.027159 ms
+
+Query : zion
+Approximate Nearest Neighbor : zion
+True Nearest Neighbor : zion
+distanceApproximate : 0.000000
+distanceTrue : 0.000000
+timeApproximate : 0.160217 ms
+timeTrue : 18.302351 ms
+
+tApproximateAverage : 0.124871 ms
+tApproximateTrue : 9.154683 ms
+MAF : 1.000000
